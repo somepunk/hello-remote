@@ -1,3 +1,5 @@
 Here is some text we are adding into demo.txt
 
 I'm now going to add some text locally and push to remote
+
+making even more changes
